@@ -1,0 +1,34 @@
+{
+    "employees": [
+        {
+            "firstname": "Aadam",
+            "lastname": "Husain",
+            "dateofjoining": "3/23/2018",
+            "Team": "App Service team"
+        },
+        {
+            "firstname": "Taylor",
+            "lastname": "Stamm",
+            "dateofjoining": "5/7/2018",
+            "Team": "App Service team"
+        },
+        {
+            "firstname": "Roosevelt",
+            "lastname": "Nelson Jr",
+            "dateofjoining": "12/17/2018",
+            "Team": "App Service team"
+        },
+        {
+            "firstname": "Brad",
+            "lastname": "Edwards",
+            "dateofjoining": "6/4/2018",
+            "Team": "App Service team"
+        },
+        {
+            "firstname": "Jose",
+            "lastname": "Patino",
+            "dateofjoining": "12/18/2017",
+            "Team": "App Service team"
+        }
+    ]
+}
